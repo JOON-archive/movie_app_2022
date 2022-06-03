@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/junsu22.io/movie_app_2022/static/css/main.e0698f09.chunk.css",
-    "main.js": "/junsu22.io/movie_app_2022/static/js/main.d6474008.chunk.js",
-    "main.js.map": "/junsu22.io/movie_app_2022/static/js/main.d6474008.chunk.js.map",
-    "runtime-main.js": "/junsu22.io/movie_app_2022/static/js/runtime-main.12448a2d.js",
-    "runtime-main.js.map": "/junsu22.io/movie_app_2022/static/js/runtime-main.12448a2d.js.map",
-    "static/js/2.cdd02c77.chunk.js": "/junsu22.io/movie_app_2022/static/js/2.cdd02c77.chunk.js",
-    "static/js/2.cdd02c77.chunk.js.map": "/junsu22.io/movie_app_2022/static/js/2.cdd02c77.chunk.js.map",
-    "index.html": "/junsu22.io/movie_app_2022/index.html",
-    "static/css/main.e0698f09.chunk.css.map": "/junsu22.io/movie_app_2022/static/css/main.e0698f09.chunk.css.map",
-    "static/js/2.cdd02c77.chunk.js.LICENSE.txt": "/junsu22.io/movie_app_2022/static/js/2.cdd02c77.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2022/static/css/main.e0698f09.chunk.css",
+    "main.js": "/movie_app_2022/static/js/main.d6474008.chunk.js",
+    "main.js.map": "/movie_app_2022/static/js/main.d6474008.chunk.js.map",
+    "runtime-main.js": "/movie_app_2022/static/js/runtime-main.33a67474.js",
+    "runtime-main.js.map": "/movie_app_2022/static/js/runtime-main.33a67474.js.map",
+    "static/js/2.cdd02c77.chunk.js": "/movie_app_2022/static/js/2.cdd02c77.chunk.js",
+    "static/js/2.cdd02c77.chunk.js.map": "/movie_app_2022/static/js/2.cdd02c77.chunk.js.map",
+    "index.html": "/movie_app_2022/index.html",
+    "static/css/main.e0698f09.chunk.css.map": "/movie_app_2022/static/css/main.e0698f09.chunk.css.map",
+    "static/js/2.cdd02c77.chunk.js.LICENSE.txt": "/movie_app_2022/static/js/2.cdd02c77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12448a2d.js",
+    "static/js/runtime-main.33a67474.js",
     "static/js/2.cdd02c77.chunk.js",
     "static/css/main.e0698f09.chunk.css",
     "static/js/main.d6474008.chunk.js"
